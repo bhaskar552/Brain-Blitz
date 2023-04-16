@@ -1,6 +1,6 @@
 
 ## BRAIN BLITZ
-The web application is reminiscent of the popular memory board game, where users can register an account, select a desired difficulty level and card theme, and enjoy the challenge of matching pairs of cards. Additionally, users can track their progress as their score is updated at the end of each game.
+The web application is a memory board game, where users can register an account, select a desired difficulty level and card theme, and enjoy the challenge of matching pairs of cards. Additionally, users can track their progress as their score is updated at the end of each game.
 ## Introduction
 The Brain Blitz project is a simple game that tests and improves the player's memory skills. It involves flipping cards on a game board to find matching pairs of images. The project aims to provide an engaging and entertaining experience for players of all ages while helping them develop their cognitive abilities.
 ## Soft Skills to be Assessed:
@@ -44,11 +44,19 @@ The project is Deployed using render .
 The live Website => https://brainblitz.onrender.com
 
 ## Tech Used
+
 HTML, CSS, MaterializeCSS, JS, React for front end
+
 MongoDB, Express, Node, Mongoose for backend
+
 Context API for state management
+
 Nodemon and Concurrently for development
+
 JWToken and Bcrypt for hashing passwords
+
 Robohash for card images
+
 Axios for image API requests
+
 Render for deployment
