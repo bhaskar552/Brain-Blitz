@@ -42,3 +42,13 @@ User analytics (eg - time taken by each user for every step, solution accuracy, 
 The project is Deployed using render .
 
 The live Website => https://brainblitz.onrender.com
+
+## Tech Used
+HTML, CSS, MaterializeCSS, JS, React for front end
+MongoDB, Express, Node, Mongoose for backend
+Context API for state management
+Nodemon and Concurrently for development
+JWToken and Bcrypt for hashing passwords
+Robohash for card images
+Axios for image API requests
+Render for deployment
