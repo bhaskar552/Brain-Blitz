@@ -33,6 +33,9 @@ It's important to note that these steps assume that you have Node.js and npm (No
     On refreshing, from either browser or website, the puzzle should start from the same step or give the user an option to restart
 
     A dashboard for the admin where the progress of all the users can be tracked & analyzed
+    
+## Additional Features
+User analytics (eg - time taken by each user for every step, solution accuracy, etc.) depending on your puzzle is stored and can be seen by the admin in the database
 
 ## Deployment
 
